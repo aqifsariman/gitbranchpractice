@@ -1,2 +1,2 @@
 let name = process.argv[2];
-console.log(`hello ${name.toUpperCase()}! How are you?`);
+console.log(`Good day ${name.toUpperCase()}! Are you well?`);
